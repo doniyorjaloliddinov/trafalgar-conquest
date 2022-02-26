@@ -1,0 +1,19 @@
+body {
+  margin-left: 100px;
+  background-color: rgb(50, 211, 18);
+}
+
+/* .trafalgar-page {
+   display: flex;
+   margin: 15px;
+   color: rgb(255, 255, 255);
+
+} */
+
+.linked-pages {
+  font-weight: bold;
+  display: flex;
+  margin: 15px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
